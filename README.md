@@ -6,3 +6,5 @@ Hola, mi nombre es Jeremías, estoy haciendo esto porque el tutorial número 1 d
 
 
 d o u
+
+jaja aca haciendo un merge conflict de ruta
